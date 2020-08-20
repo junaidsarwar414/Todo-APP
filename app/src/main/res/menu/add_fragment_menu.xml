@@ -7,7 +7,7 @@
         android:title="@string/add"
         android:icon="@drawable/ic_check"
         android:iconTint="@color/white"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 
 
 </menu>
